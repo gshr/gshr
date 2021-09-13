@@ -1,0 +1,30 @@
+.main-footer{
+    color: white;
+    background-color: brown;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    bottom :0;
+    width : 100%;
+    position: fixed;
+    color: white;
+    text-align: center;
+}
+.p{
+    text-align: center;
+
+}
+.box {
+    display: flex;
+  }
+
+  .one {
+    flex: 1 1 auto;
+  }
+
+  .two {
+    flex: 1 1 auto;
+  }
+
+  .three {
+    flex: 1 1 auto;
+  }
