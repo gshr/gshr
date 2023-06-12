@@ -14,6 +14,7 @@ I'm a Software Engineer passionate about Data Engineering, Backend Development, 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![AWS SAM](https://img.shields.io/badge/-AWS%20SAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 
