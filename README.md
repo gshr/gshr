@@ -1,10 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Gaurav Sharma 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=dev.to)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauravsharma1054)
 
-I'm a [your role] passionate about [your interests or technologies]. Welcome to my GitHub profile!
+
+I'm a Software Engineer passionate about Data Engineering, Backend Development, Cloud and DevOps. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -19,13 +18,11 @@ I'm a [your role] passionate about [your interests or technologies]. Welcome to 
 
 ## 🌱 Currently Learning
 
-I'm currently focused on improving my skills in Python, Data Engineering, DevOps.
-
-
+I'm currently focused on improving my Python, Data Engineering, and DevOps skills.
 
 
 ## 📫 How to Reach Me
 
-You can reach me via email at [youremail@example.com](mailto:youremail@example.com).
+You can reach me via email at [youremail@example.com](mailto:gaurav.shr6366@gmail.com).
 
 Let's connect and collaborate!
