@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauravsharma1054)
 
 
-I'm a Software Engineer passionate about Data Engineering, Backend Development, Cloud and DevOps. Welcome to my GitHub profile!
+I'm a Software Engineer passionate about Data Engineering, Backend Development, Cloud, and DevOps. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -23,6 +23,6 @@ I'm currently focused on improving my Python, Data Engineering, and DevOps skill
 
 ## 📫 How to Reach Me
 
-You can reach me via email at [youremail@example.com](mailto:gaurav.shr6366@gmail.com).
+You can reach me via email at [gaurav.shr6366@gmail.com](mailto:gaurav.shr6366@gmail.com).
 
 Let's connect and collaborate!
