@@ -33,7 +33,7 @@ I'm a Cloud Engineer and Backend Developer passionate about building scalable so
 - MuleSoft Certified Developer Level-1
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gshr&show_icons=true&theme=dark)
 
 ## 📚 Blog & Writing
 - [Sharing my knowledge and experiences on Medium/Dev.to]
