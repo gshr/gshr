@@ -23,9 +23,7 @@ I'm a Cloud Engineer and Backend Developer passionate about building scalable so
 - Data Engineering and ETL processes
 
 ## 📫 Let's Connect
-- LinkedIn: [Gaurav Sharma](https://www.linkedin.com/in/your-profile)
 - Email: [gaurav.sharma1054@gmail.com](mailto:gaurav.sharma1054@gmail.com)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 ## 🏆 Certifications
 - AWS Certified Solutions Architect – Associate
